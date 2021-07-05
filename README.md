@@ -18,3 +18,5 @@ Run the visualization:
 ```bash
 python3 exp1.py [name of map]
 ```
+
+The maps used can be found [here](https://drive.google.com/drive/folders/1MvqCkVHGw_46g-txQ_DLfuBxA1Iye5qr?usp=sharing)
